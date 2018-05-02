@@ -1,0 +1,3 @@
+Accuracy,Algorithm,Date,Features,KFolds,Predicting,Training,Version,f1_score,matthews_corrcoef,precision,recall,roc_auc_score,support
+0.777777777778,MLC,18-01-14-20-34-15,Completed,0,0:00:00.002002,0:00:01.035688,SP Adjust Price 1 + Combination of Series,0.97,0,0.0,0.68,0,0.8
+0.777777777778,MLC,18-01-14-20-34-15,Completed,0,0:00:00.002002,0:00:01.035688,SP Adjust Price 1 + Combination of Series,0.61,0,1.0,0.96,0,0.75
